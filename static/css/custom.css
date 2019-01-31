@@ -1,0 +1,13 @@
+.list-header-title {
+  color: black;
+  text-transform: capitalize;
+}
+
+.list-body {
+  background-size: cover;
+}
+
+.post-figure img {
+  width: 30%;
+  margin: 0 auto;
+}

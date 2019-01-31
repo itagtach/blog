@@ -1,0 +1,10 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Nachisimo"
+theme = "aether"
+paginate = 3
+
+[params]
+brand = "Nacho"
+description = "segtg"
+bgimg = "img/background.jpg"
